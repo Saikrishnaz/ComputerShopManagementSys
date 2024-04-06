@@ -26,14 +26,14 @@ The Computer Shop Management System provides a comprehensive solution for managi
 
 1. Clone the repository to your local machine:
    ```
-   git clone https://github.com/your-username/computer-shop-management-system.git
+   git clone https://github.com/Saikrishnaz/ComputerShopManagementSys.git
    ```
 
 2. Open the project in Visual Studio.
 
 3. Set up the database:
    - Create a new database in SQL Server or MySQL.
-   - Import the database schema from the provided SQL script (`database.sql`).
+   - Import the database schema from the provided SQL script (`ComputerShopManagementdata.mdf`).
    - Update the database connection string in the project configuration files (`app.config`).
 
 4. Build and run the project.
